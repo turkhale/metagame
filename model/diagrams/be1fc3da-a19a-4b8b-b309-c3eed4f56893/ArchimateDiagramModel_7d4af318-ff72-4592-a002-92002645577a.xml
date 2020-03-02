@@ -6,9 +6,10 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="41d979be-0eac-48f2-9097-2256ea4ca981"
-      name="Структурная схема (схема контрактации) процесса вер.01 22-апр-18"
+      name="Структурная схема (схема контрактации) процесса"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#ffffff"
+      borderType="1">
     <bounds
         x="12"
         y="12"

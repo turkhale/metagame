@@ -6,9 +6,10 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="537d4598-c92e-46fb-a8f6-4836b7f4be82"
-      name="Эксплуатационный контекст. Структурная модель. вер.02 30-апр-18"
+      name="Эксплуатационный контекст. Структурная модель."
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#ffffff"
+      borderType="1">
     <bounds
         y="-24"
         width="1428"

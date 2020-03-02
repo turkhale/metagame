@@ -6,9 +6,10 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="70862457-434c-4b7b-9ab8-fadd4855b0be"
-      name="Соответствие функции и структуры вер.01 25 мая 2018"
+      name="Соответствие функции и структуры"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#ffffff"
+      borderType="1">
     <bounds
         x="12"
         y="12"

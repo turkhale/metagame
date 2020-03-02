@@ -6,9 +6,10 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="09256c08-0f2f-4f1b-a682-98572b4a1bc6"
-      name="Требования стейкхолдеров вер.02 25 мая 2018"
+      name="Требования стейкхолдеров"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#ffffff"
+      borderType="1">
     <bounds
         width="1308"
         height="392"/>

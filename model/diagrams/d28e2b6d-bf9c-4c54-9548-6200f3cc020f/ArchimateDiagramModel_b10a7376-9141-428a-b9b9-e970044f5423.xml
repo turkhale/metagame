@@ -6,9 +6,10 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="e8ce469c-0346-4861-9c46-29dbd150c1b5"
-      name="Структура системы вер.01 25 мая 2018"
+      name="Структура системы"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#ffffff"
+      borderType="1">
     <bounds
         width="1104"
         height="606"/>
