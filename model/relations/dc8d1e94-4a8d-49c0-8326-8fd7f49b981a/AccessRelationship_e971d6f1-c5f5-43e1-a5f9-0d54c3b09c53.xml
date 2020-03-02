@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Severa consuetudine curis oratoribus quicquam"
+    id="e971d6f1-c5f5-43e1-a5f9-0d54c3b09c53"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_26f91e14-c544-419a-a0ee-d0569b207afc.xml#26f91e14-c544-419a-a0ee-d0569b207afc"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ferae effluere varias"
+    id="01852b36-f280-4aa1-a267-72260db1dc1f">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_2cb2e2e7-d822-4c06-8fe0-6340d4383dbc.xml#2cb2e2e7-d822-4c06-8fe0-6340d4383dbc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_0ad78925-9233-4ce0-b43a-137dc98eed14.xml#0ad78925-9233-4ce0-b43a-137dc98eed14"/>
+</archimate:AccessRelationship>

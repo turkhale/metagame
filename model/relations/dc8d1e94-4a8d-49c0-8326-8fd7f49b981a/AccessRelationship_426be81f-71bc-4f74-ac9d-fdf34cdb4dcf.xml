@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reiciat inveneris clamat monstret"
+    id="426be81f-71bc-4f74-ac9d-fdf34cdb4dcf">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_9fa93a76-b0cf-4cc1-aa59-cd85e687afea.xml#9fa93a76-b0cf-4cc1-aa59-cd85e687afea"/>
+</archimate:AccessRelationship>

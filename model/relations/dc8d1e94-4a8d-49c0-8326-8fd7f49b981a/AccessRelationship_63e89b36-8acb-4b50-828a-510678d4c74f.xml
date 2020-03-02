@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cognita quoque"
+    id="63e89b36-8acb-4b50-828a-510678d4c74f"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_163a8e5d-7180-4ead-914b-ebe6520106c6.xml#163a8e5d-7180-4ead-914b-ebe6520106c6"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_e6ab77f6-1e7a-46ea-8b0c-8fbe81fe764c.xml#e6ab77f6-1e7a-46ea-8b0c-8fbe81fe764c"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tollitur"
+    id="731e553b-3925-41de-b2aa-a459646b5643">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_fcab41a9-1824-4f6c-94d8-1933597e0164.xml#fcab41a9-1824-4f6c-94d8-1933597e0164"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7d73b300-f7da-43a1-b406-21334ddf218c.xml#7d73b300-f7da-43a1-b406-21334ddf218c"/>
+</archimate:AccessRelationship>

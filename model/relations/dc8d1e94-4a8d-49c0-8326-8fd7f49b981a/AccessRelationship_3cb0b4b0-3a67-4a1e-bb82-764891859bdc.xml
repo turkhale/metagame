@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Duo multavit platonis malivoli pronuntiaret nostrum"
+    id="3cb0b4b0-3a67-4a1e-bb82-764891859bdc"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d35f250f-db6b-4807-8b68-2d1519140ad1.xml#d35f250f-db6b-4807-8b68-2d1519140ad1"/>
+</archimate:AccessRelationship>

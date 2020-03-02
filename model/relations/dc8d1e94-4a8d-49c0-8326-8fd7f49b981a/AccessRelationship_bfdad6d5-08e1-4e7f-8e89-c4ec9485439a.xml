@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Horrent tenebo cumanum voluptas"
+    id="bfdad6d5-08e1-4e7f-8e89-c4ec9485439a">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7eede8c1-b926-41d9-b2a1-ff81ffc01b02.xml#7eede8c1-b926-41d9-b2a1-ff81ffc01b02"/>
+</archimate:AccessRelationship>

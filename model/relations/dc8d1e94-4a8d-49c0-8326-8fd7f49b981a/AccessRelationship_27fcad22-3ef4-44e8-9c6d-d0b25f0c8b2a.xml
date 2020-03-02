@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Velit certa scripserit quaerat"
+    id="27fcad22-3ef4-44e8-9c6d-d0b25f0c8b2a"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_163a8e5d-7180-4ead-914b-ebe6520106c6.xml#163a8e5d-7180-4ead-914b-ebe6520106c6"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_0ad78925-9233-4ce0-b43a-137dc98eed14.xml#0ad78925-9233-4ce0-b43a-137dc98eed14"/>
+</archimate:AccessRelationship>

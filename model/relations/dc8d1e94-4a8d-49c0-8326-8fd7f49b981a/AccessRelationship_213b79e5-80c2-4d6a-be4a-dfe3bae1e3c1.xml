@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Naturales percipitur c provincia turbulentaeque"
+    id="213b79e5-80c2-4d6a-be4a-dfe3bae1e3c1"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_872c1773-da25-4ce7-b14d-d053c65ea890.xml#872c1773-da25-4ce7-b14d-d053c65ea890"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_0ed70e9a-23bd-426b-8550-35c22d60fc43.xml#0ed70e9a-23bd-426b-8550-35c22d60fc43"/>
+</archimate:AccessRelationship>

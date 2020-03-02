@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Torquate aristotele"
+    id="8286c3e3-fec1-4920-accc-5a2cd1e54301"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_d48595d6-89c6-4a0c-871e-0736f0a00b16.xml#d48595d6-89c6-4a0c-871e-0736f0a00b16"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_75fbabb7-88e9-4930-aca8-fba23663930b.xml#75fbabb7-88e9-4930-aca8-fba23663930b"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elegantis conflixisse"
+    id="2e8cfdac-3ed5-4c99-ae52-480923647c41"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_163a8e5d-7180-4ead-914b-ebe6520106c6.xml#163a8e5d-7180-4ead-914b-ebe6520106c6"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3331787c-9cbc-4ced-981d-bf3085a8b36d.xml#3331787c-9cbc-4ced-981d-bf3085a8b36d"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dediti infimum"
+    id="a4f1a072-63d2-4885-a222-9957d0538723">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_b288911c-96ad-4c59-8587-b19ec3c55e1a.xml#b288911c-96ad-4c59-8587-b19ec3c55e1a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_249df98f-84b5-4fa6-a9c3-b6aeae3035f2.xml#249df98f-84b5-4fa6-a9c3-b6aeae3035f2"/>
+</archimate:AccessRelationship>

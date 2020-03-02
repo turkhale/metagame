@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Percipit loquuntur"
+    id="a0aa38a9-0c87-468f-bf30-a18d906e3cb8"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a66b0c19-95ae-47f0-af3c-0ad4287cc0fb.xml#a66b0c19-95ae-47f0-af3c-0ad4287cc0fb"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_947344e1-b486-463b-bd75-6705ff1204a1.xml#947344e1-b486-463b-bd75-6705ff1204a1"/>
+</archimate:AccessRelationship>

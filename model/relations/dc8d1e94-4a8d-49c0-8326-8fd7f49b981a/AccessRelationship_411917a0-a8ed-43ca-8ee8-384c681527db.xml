@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audiebamus"
+    id="411917a0-a8ed-43ca-8ee8-384c681527db">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_d48595d6-89c6-4a0c-871e-0736f0a00b16.xml#d48595d6-89c6-4a0c-871e-0736f0a00b16"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d35f250f-db6b-4807-8b68-2d1519140ad1.xml#d35f250f-db6b-4807-8b68-2d1519140ad1"/>
+</archimate:AccessRelationship>

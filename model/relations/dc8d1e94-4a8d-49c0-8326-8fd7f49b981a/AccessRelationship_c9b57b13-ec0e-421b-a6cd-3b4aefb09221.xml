@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eosdem perpessio hosti proposita"
+    id="c9b57b13-ec0e-421b-a6cd-3b4aefb09221">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_cc500488-0971-4add-85f3-5370dc1dcd6c.xml#cc500488-0971-4add-85f3-5370dc1dcd6c"/>
+</archimate:AccessRelationship>

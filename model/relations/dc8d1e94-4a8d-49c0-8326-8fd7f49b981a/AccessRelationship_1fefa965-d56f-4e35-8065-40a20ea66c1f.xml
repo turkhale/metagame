@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aetatis ceterorum alias terminatas"
+    id="1fefa965-d56f-4e35-8065-40a20ea66c1f"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_6edc8732-2663-4e95-bcc4-fad7e2762ef4.xml#6edc8732-2663-4e95-bcc4-fad7e2762ef4"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7e96c73b-7776-4802-adaa-7740fc70a9a6.xml#7e96c73b-7776-4802-adaa-7740fc70a9a6"/>
+</archimate:AccessRelationship>

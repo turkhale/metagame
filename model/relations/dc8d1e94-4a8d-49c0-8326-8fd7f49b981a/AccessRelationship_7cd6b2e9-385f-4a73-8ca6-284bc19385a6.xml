@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erigimur"
+    id="7cd6b2e9-385f-4a73-8ca6-284bc19385a6"
+    accessType="2">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_80f0a057-3faf-49e1-868f-003c48183686.xml#80f0a057-3faf-49e1-868f-003c48183686"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_8b688add-7e81-41b4-9252-46ffa7da2b8f.xml#8b688add-7e81-41b4-9252-46ffa7da2b8f"/>
+</archimate:AccessRelationship>

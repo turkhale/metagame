@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retinent accusator"
+    id="f2cebcc5-472e-4267-af37-5cfc667be6d6">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_c7814fdf-ddd3-4974-ab15-486886f63396.xml#c7814fdf-ddd3-4974-ab15-486886f63396"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_812e8742-50d8-4964-bf58-ef5a33ac13c3.xml#812e8742-50d8-4964-bf58-ef5a33ac13c3"/>
+</archimate:FlowRelationship>

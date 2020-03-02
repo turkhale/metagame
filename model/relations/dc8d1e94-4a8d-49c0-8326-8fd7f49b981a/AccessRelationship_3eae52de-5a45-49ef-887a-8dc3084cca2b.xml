@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Volunt tantalo idque macedonum"
+    id="3eae52de-5a45-49ef-887a-8dc3084cca2b"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_19c3280c-59bb-43ee-ae5b-00b932d244d6.xml#19c3280c-59bb-43ee-ae5b-00b932d244d6"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_617b4408-774b-434e-a850-7d18419f502d.xml#617b4408-774b-434e-a850-7d18419f502d"/>
+</archimate:AccessRelationship>

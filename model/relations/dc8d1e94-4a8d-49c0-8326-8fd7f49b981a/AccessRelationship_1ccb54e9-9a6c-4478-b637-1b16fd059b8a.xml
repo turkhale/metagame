@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Amicos"
+    id="1ccb54e9-9a6c-4478-b637-1b16fd059b8a"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_fcab41a9-1824-4f6c-94d8-1933597e0164.xml#fcab41a9-1824-4f6c-94d8-1933597e0164"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7eede8c1-b926-41d9-b2a1-ff81ffc01b02.xml#7eede8c1-b926-41d9-b2a1-ff81ffc01b02"/>
+</archimate:AccessRelationship>

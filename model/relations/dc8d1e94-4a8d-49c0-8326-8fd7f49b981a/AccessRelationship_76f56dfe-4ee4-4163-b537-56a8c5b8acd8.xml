@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Despicationes verterunt signiferumque animi"
+    id="76f56dfe-4ee4-4163-b537-56a8c5b8acd8">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_699d2cce-af26-4941-a1d3-dcf94653bd7c.xml#699d2cce-af26-4941-a1d3-dcf94653bd7c"/>
+</archimate:AccessRelationship>

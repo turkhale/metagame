@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zenonem summum vis bonas"
+    id="92e41792-5d0e-4df1-b3cb-2e4975b363ee"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1d1c5812-e7f7-44ca-b7f8-e10778f04a4c.xml#1d1c5812-e7f7-44ca-b7f8-e10778f04a4c"/>
+</archimate:AccessRelationship>

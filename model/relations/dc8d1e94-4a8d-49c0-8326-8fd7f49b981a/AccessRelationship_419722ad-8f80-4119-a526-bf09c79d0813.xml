@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vendibiliora dolere apte"
+    id="419722ad-8f80-4119-a526-bf09c79d0813"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_2dcb8e27-26e7-4cbe-affc-67288b6e8eda.xml#2dcb8e27-26e7-4cbe-affc-67288b6e8eda"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d9b98d5e-0f14-4a5b-9dbd-127d0268518a.xml#d9b98d5e-0f14-4a5b-9dbd-127d0268518a"/>
+</archimate:AccessRelationship>

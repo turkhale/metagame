@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Superstitio veterum solum"
+    id="29f53438-3321-4840-a16d-10107eb54589"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_249df98f-84b5-4fa6-a9c3-b6aeae3035f2.xml#249df98f-84b5-4fa6-a9c3-b6aeae3035f2"/>
+</archimate:AccessRelationship>

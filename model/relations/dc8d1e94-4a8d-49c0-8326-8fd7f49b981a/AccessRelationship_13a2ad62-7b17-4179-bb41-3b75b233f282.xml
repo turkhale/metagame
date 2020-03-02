@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Continent"
+    id="13a2ad62-7b17-4179-bb41-3b75b233f282"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_d25a83ff-c13a-43d6-9f73-eae6a79bd7ab.xml#d25a83ff-c13a-43d6-9f73-eae6a79bd7ab"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d622e093-415e-4468-93d8-1e3f610fc391.xml#d622e093-415e-4468-93d8-1e3f610fc391"/>
+</archimate:AccessRelationship>

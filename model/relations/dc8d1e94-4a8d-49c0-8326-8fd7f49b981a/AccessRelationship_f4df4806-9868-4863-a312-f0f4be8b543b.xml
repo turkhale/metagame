@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infinito"
+    id="f4df4806-9868-4863-a312-f0f4be8b543b"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_2c3c2a71-c76b-4c6c-98ef-c13705e3135a.xml#2c3c2a71-c76b-4c6c-98ef-c13705e3135a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_b23aa927-443b-429f-8d59-d4ba7f81399a.xml#b23aa927-443b-429f-8d59-d4ba7f81399a"/>
+</archimate:AccessRelationship>

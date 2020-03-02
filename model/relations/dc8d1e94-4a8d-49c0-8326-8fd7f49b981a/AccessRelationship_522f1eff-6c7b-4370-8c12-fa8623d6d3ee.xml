@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Idcirco summo variis detracto porro"
+    id="522f1eff-6c7b-4370-8c12-fa8623d6d3ee"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_b288911c-96ad-4c59-8587-b19ec3c55e1a.xml#b288911c-96ad-4c59-8587-b19ec3c55e1a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_cc500488-0971-4add-85f3-5370dc1dcd6c.xml#cc500488-0971-4add-85f3-5370dc1dcd6c"/>
+</archimate:AccessRelationship>

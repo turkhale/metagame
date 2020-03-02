@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Numquid"
+    id="115b054a-757d-4d37-957f-acf68645f3cd"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_09808b3d-4ca2-4ba4-be14-d744d1e780dd.xml#09808b3d-4ca2-4ba4-be14-d744d1e780dd"/>
+</archimate:AccessRelationship>

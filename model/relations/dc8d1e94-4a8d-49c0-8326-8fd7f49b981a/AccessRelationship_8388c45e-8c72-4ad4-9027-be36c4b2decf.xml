@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lucilius athenis"
+    id="8388c45e-8c72-4ad4-9027-be36c4b2decf"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_c62e9a2d-07ad-4aff-ba5e-160cf94f4a15.xml#c62e9a2d-07ad-4aff-ba5e-160cf94f4a15"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_0b12faa6-5722-4a7d-ae12-393f5391fdfc.xml#0b12faa6-5722-4a7d-ae12-393f5391fdfc"/>
+</archimate:AccessRelationship>

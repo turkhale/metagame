@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neglegit ratione"
+    id="f392e165-e8ad-4e5d-a13e-34c9a9dd7c8f">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_063658d4-7a90-48b6-9224-3af922fcafd5.xml#063658d4-7a90-48b6-9224-3af922fcafd5"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3496f1d2-d20b-4c9c-a1cf-1443c0b41c7a.xml#3496f1d2-d20b-4c9c-a1cf-1443c0b41c7a"/>
+</archimate:AccessRelationship>

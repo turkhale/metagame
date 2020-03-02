@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certissimam ipso gravioribus intellegimus"
+    id="30eb2333-733c-45a7-aa55-e1416de9d8ea"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_2cb2e2e7-d822-4c06-8fe0-6340d4383dbc.xml#2cb2e2e7-d822-4c06-8fe0-6340d4383dbc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7eede8c1-b926-41d9-b2a1-ff81ffc01b02.xml#7eede8c1-b926-41d9-b2a1-ff81ffc01b02"/>
+</archimate:AccessRelationship>

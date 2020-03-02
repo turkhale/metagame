@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nullus cupiditatibus dicenda patientiamque"
+    id="2202a866-ce4a-42c3-a3d4-0b8646ac17c1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_5b2be719-88aa-44bb-9594-0ba1f6e4f443.xml#5b2be719-88aa-44bb-9594-0ba1f6e4f443"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1d1c5812-e7f7-44ca-b7f8-e10778f04a4c.xml#1d1c5812-e7f7-44ca-b7f8-e10778f04a4c"/>
+</archimate:AccessRelationship>

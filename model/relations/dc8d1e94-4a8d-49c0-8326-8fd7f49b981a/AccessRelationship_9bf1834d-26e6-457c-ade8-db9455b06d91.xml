@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instituit vitam"
+    id="9bf1834d-26e6-457c-ade8-db9455b06d91">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_2cb2e2e7-d822-4c06-8fe0-6340d4383dbc.xml#2cb2e2e7-d822-4c06-8fe0-6340d4383dbc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_4891401a-e2e3-4c78-8bae-32a2fa27e1fe.xml#4891401a-e2e3-4c78-8bae-32a2fa27e1fe"/>
+</archimate:AccessRelationship>

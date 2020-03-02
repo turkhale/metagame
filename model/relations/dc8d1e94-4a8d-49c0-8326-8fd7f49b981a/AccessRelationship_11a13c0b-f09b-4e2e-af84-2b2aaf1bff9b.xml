@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quietae iudicandum"
+    id="11a13c0b-f09b-4e2e-af84-2b2aaf1bff9b">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d9b98d5e-0f14-4a5b-9dbd-127d0268518a.xml#d9b98d5e-0f14-4a5b-9dbd-127d0268518a"/>
+</archimate:AccessRelationship>

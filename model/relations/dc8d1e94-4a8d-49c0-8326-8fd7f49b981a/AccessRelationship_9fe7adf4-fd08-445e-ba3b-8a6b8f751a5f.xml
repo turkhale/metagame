@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Honestum tria leniter venire"
+    id="9fe7adf4-fd08-445e-ba3b-8a6b8f751a5f"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_327797b8-d1d5-4a72-b7eb-efaecfc85bf6.xml#327797b8-d1d5-4a72-b7eb-efaecfc85bf6"/>
+</archimate:AccessRelationship>

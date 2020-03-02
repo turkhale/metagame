@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ignota"
+    id="793cd7fd-d63e-4ceb-8eef-3018b3546268">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_b23aa927-443b-429f-8d59-d4ba7f81399a.xml#b23aa927-443b-429f-8d59-d4ba7f81399a"/>
+</archimate:AccessRelationship>

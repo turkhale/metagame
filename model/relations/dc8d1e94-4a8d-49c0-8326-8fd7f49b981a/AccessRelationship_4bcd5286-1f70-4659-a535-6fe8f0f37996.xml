@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sublata molestia"
+    id="4bcd5286-1f70-4659-a535-6fe8f0f37996"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_5b2be719-88aa-44bb-9594-0ba1f6e4f443.xml#5b2be719-88aa-44bb-9594-0ba1f6e4f443"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3496f1d2-d20b-4c9c-a1cf-1443c0b41c7a.xml#3496f1d2-d20b-4c9c-a1cf-1443c0b41c7a"/>
+</archimate:AccessRelationship>

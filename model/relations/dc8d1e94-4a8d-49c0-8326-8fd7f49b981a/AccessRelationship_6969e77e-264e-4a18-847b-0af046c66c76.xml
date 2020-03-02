@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stultus insitam probant quoddam"
+    id="6969e77e-264e-4a18-847b-0af046c66c76">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ecae5ee4-d3d6-43a4-8345-b1442502a348.xml#ecae5ee4-d3d6-43a4-8345-b1442502a348"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_60474e0b-0caa-4577-89c0-dba3010268c2.xml#60474e0b-0caa-4577-89c0-dba3010268c2"/>
+</archimate:AccessRelationship>

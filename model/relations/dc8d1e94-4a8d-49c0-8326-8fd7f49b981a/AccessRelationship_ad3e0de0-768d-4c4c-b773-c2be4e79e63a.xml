@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oportere leviora dissentiunt nemo"
+    id="ad3e0de0-768d-4c4c-b773-c2be4e79e63a"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_6edc8732-2663-4e95-bcc4-fad7e2762ef4.xml#6edc8732-2663-4e95-bcc4-fad7e2762ef4"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_42abbc3d-f812-4260-91ab-34c111a57a9f.xml#42abbc3d-f812-4260-91ab-34c111a57a9f"/>
+</archimate:AccessRelationship>

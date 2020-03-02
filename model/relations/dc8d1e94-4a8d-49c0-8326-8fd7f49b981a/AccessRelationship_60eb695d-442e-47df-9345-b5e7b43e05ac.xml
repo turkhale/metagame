@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contineri"
+    id="60eb695d-442e-47df-9345-b5e7b43e05ac">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_2c3c2a71-c76b-4c6c-98ef-c13705e3135a.xml#2c3c2a71-c76b-4c6c-98ef-c13705e3135a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_09808b3d-4ca2-4ba4-be14-d744d1e780dd.xml#09808b3d-4ca2-4ba4-be14-d744d1e780dd"/>
+</archimate:AccessRelationship>
